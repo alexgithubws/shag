@@ -1,0 +1,62 @@
+.box{
+    width: 1046px;
+    height: 692px;
+    background-color: rgb(34, 34, 31);
+    display: inline-block;
+    
+}
+.box-slids{
+    width: 920px;
+    height: 502px;
+    border: 1px solid chartreuse;
+    margin:64px 58px;
+}
+ul{
+   margin-top: -48px;
+    padding-left: 56px;
+    padding-bottom: 40px;
+}
+ul li{
+    display: inline;
+    border: 1px solid gray;
+
+
+    
+   
+}
+.box-slid a{
+    width: 120px;
+    height: 67px;
+    border: 3px solid gold;
+    float: left;
+    margin-right: 7px;
+}
+.box-slid a:hover{
+    border: 3px solid rgb(179, 62, 32);
+}
+.play{
+    width: 36px;
+    height: 36px;
+    float: right;
+   
+}
+.peremotka{
+    width: 36px;
+    height: 36px;
+    margin-top: 235px;
+    margin-left: 6px;
+}
+.peremotka2{
+    width: 36px;
+    height: 36px;
+    margin-top: 235px;
+    float: right;
+    transform: rotateX(180deg);
+    margin-right: -30px;
+}
+.content{
+    height: 30px;
+    width: 920;
+    background-color: royalblue;
+    margin-top: 195px;
+}

@@ -1,0 +1,43 @@
+body{
+    
+    width: 1463px;
+    height: 1280px ;
+    border: 25px solid #a52a2a;
+    position: absolute;
+
+    
+}
+.box { text-align: center;
+     background-color: #eeeeee;
+     }
+   .centered { display: inline-block;
+     margin: 0; }
+   .chess-board { border-spacing: 0;
+     border-collapse: collapse;
+     margin-left: center center;
+    }
+   .chess-board th { padding: center center;
+    font-size: 108px ;
+    color:brown;
+ }
+    .th { 
+     border: 15px solid brown; 
+    
+    width: 150px; height: 150px;
+      text-align: center; vertical-align: middle;
+     }
+   .chess-board .white { background-color: #eeeeee; }
+   .chess-board .black { background-color: brown;
+}
+.ramka-niz{
+  border-top: 15px solid brown;
+}
+.ramka-top{
+  border-bottom: 15px solid brown;
+}
+.ramka-left{
+  border-right: 15px solid brown;
+}
+.ramka-right{
+  border-left: 15px solid brown;
+}
